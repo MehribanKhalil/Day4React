@@ -1,0 +1,5 @@
+.card_container{
+    display: flex;
+    margin: 50px auto;
+    justify-content: space-between;
+}
